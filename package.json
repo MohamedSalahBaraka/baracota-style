@@ -1,0 +1,31 @@
+{
+  "name": "baracota-style",
+  "version": "1.0.1",
+  "description": "this is brakocta styles which is libiry of styles for react native that might make you life easier. it's part of baracota family",
+  "main": "./src/index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "baracota",
+    "react",
+    "native",
+    "expo"
+  ],
+  "author": "M.S.Baraka",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.2.45",
+    "@types/react-native": "^0.72.8",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@react-native-community/datetimepicker": "^7.6.2",
+    "axios": "^1.6.2",
+    "expo-device": "^5.6.0",
+    "expo-image-picker": "^14.5.0",
+    "expo-notifications": "^0.23.0",
+    "expo-secure-store": "^12.5.0",
+    "react-native-image-zoom-viewer": "^3.0.1"
+  }
+}
